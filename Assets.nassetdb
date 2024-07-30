@@ -1,0 +1,12 @@
+{
+    "0d8474ea-6539-48fa-b9cf-19987aabf30e": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Synth Rider Assets"
+    },
+    "2068efed-f536-5362-ebf0-3066879dce16": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Synth_Rider_Thumb.tex.nasset"
+    },
+    "guid": "9d9ff527-9270-b514-02ee-1a1310b9e0b0"
+}
